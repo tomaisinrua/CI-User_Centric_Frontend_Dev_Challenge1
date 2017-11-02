@@ -6,4 +6,8 @@
     ----------------------------------------------------------------- 
 
 
-Code Institute - User Centric Frontend Development - Challenge 1
+## Code Institute - User Centric Frontend Development - Challenge 1
+
+##### Coding Languages Used
+     1) HTML5
+         2) CSS3
